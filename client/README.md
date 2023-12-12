@@ -3,7 +3,6 @@ Some SS from web app :
 ![Screenshot 2023-12-12 112851](https://github.com/adistar01/Project-management-GraphQL/assets/65677355/451c4efc-82e5-46b9-9ebc-fd4146260c1b)
 
 ![Screenshot 2023-12-12 112926](https://github.com/adistar01/Project-management-GraphQL/assets/65677355/c59998b6-f359-4a9c-a926-16944cabdfba)
-ted with Create React App
 
 ![Screenshot 2023-12-12 112954](https://github.com/adistar01/Project-management-GraphQL/assets/65677355/3b4b45bd-e7de-4890-8ca7-97f68893f5b4)
 
